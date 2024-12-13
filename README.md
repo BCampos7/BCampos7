@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/BCampos7">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BCampos07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCampos07&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BCampos7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BCampos7&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -14,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Estou aprendendo sobre programação, se quiser me acompanhar nessa jornada, me segue nas redes abaixo!
  
 <div> 
   
