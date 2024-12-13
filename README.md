@@ -14,7 +14,7 @@
  
 <br>
  
-### Estou aprendendo sobre programação, se quiser me acompanhar nessa jornada, me segue nas redes abaixo!
+### Estou estudando programação, se quiser me acompanhar nessa jornada, me segue nas redes abaixo!
  
 <div> 
   
